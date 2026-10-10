@@ -1,0 +1,29 @@
+# Operating System Artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Temporary Browser Profiles & Storage
+chrome_profile/
+*profile*/
+*.log
+
+# Local Test & Scratch Artifacts
+scratch/
+screenshots/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Editor & Agent Configuration
+.vscode/
+.idea/
+.antigravity/
+
+# Credentials & Environment
+*.env
+*.env.*
+*.pem
+*.key
